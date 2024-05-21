@@ -1,4 +1,3 @@
-- [Read Me](README)
-- [Example Second Page](page)
-- [LitePapa](litepaper)
+- [Lite Paper](Litepaper)
+- [Roadmap Overview](roadmap)
 - [$TMPAI Tokenomics]($TMPAI_Tokenomics)
