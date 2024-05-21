@@ -1,3 +1,3 @@
-- [Lite Paper](Litepaper)
+- [Lite Paper](litepaper)
 - [Roadmap Overview](roadmap)
 - [$TMPAI Tokenomics]($TMPAI_Tokenomics)
