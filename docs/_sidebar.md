@@ -1,3 +1,4 @@
 - [Read Me](README)
 - [Example Second Page](page)
 - [LitePapa](litepaper)
+- [$TMPAI Tokenomics]($TMPAI_Tokenomics)
