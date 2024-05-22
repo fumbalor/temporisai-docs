@@ -1,3 +1,4 @@
+- [Home](/)
 - [Lite Paper](litepaper.md)
 - [Roadmap Overview](roadmap)
 - [$TMPAI Tokenomics]($TMPAI_Tokenomics)
