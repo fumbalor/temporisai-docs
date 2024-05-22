@@ -1,4 +1,4 @@
 - [Overview](/)
-- [Lite Paper](litepaper.md)
-- [Roadmap Overview](roadmap)
+- [Architecture](architecture.md)
+- [Roadmap](roadmap)
 - [$TMPAI Tokenomics]($TMPAI_Tokenomics)
