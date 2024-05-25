@@ -2,6 +2,7 @@
   - [<i class="fas fa-book-open"></i> The project](/about/introduce-temporisai.md)
   - [<i class="fas fa-bullseye"></i> Our goals](/about/the-why.md)
   - [<i class="fas fa-drafting-compass"></i> How it works](/about/the-how.md)
+  - [<i class="fas fa-user-friends"></i> Team](/about/team.md)
  
 - **DETAILS**
   - [<i class="fas fa-cogs"></i> Architecture](architecture.md)
