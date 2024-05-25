@@ -10,7 +10,7 @@
   - [<i class="fas fa-coins"></i> $TEMPAI](details/$TEMPAI.md)
  
 - **TOKEN**
-  - [<i class="fa-duotone fa-unicorn"></i> Uniswap](https://uniswap.org)
+  - [<i class="fas fa-money-bill"></i> Uniswap](https://uniswap.org)
   - [<i class="fas fa-link"></i> Etherscan](https://etherscan.com)
 
 - **KEEP IN TOUCH**
