@@ -10,8 +10,8 @@
   - [<i class="fas fa-coins"></i> $TEMPAI](details/$TEMPAI.md)
  
 - **TOKEN**
-  - [<i class="fas fa-unicorn"></i> Uniswap ](www.uniswap.org)
-  - [<i class="fas fa-link"></i> Etherscan](www.etherscan.com)
+  - [<i class="fas fa-unicorn"></i> Uniswap](https://uniswap.org)
+  - [<i class="fas fa-link"></i> Etherscan](https://etherscan.com)
 
 - **KEEP IN TOUCH**
   - [<i class="fas fa-globe"></i> Website](https://temporisai.net)
