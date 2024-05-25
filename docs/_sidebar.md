@@ -4,9 +4,9 @@
   - [The how](/about/the-how.md)
  
 - **DETAILS**
-- [Architecture](architecture.md)
-- [Roadmap](roadmap)
-- [$TEMPAI]($TMPAI_Tokenomics)
+  - [Architecture](architecture.md)
+  - [Roadmap](roadmap)
+  - [$TEMPAI]($TMPAI_Tokenomics)
 
 - **KEEP IN TOUCH**
   - [Website](https://temporisai.net)
