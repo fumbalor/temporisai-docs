@@ -1,7 +1,7 @@
 - **ABOUT US**
-  - [<i class="fas fa-home"></i> Introducing Temporis AI](/about/introduce-temporisai.md)
-  - [<i class="fas fa-landscape"></i> The why](/about/the-why.md)
-  - [<i class="fas fa-opportunity"></i> The how](/about/the-how.md)
+  - [<i class="fas fa-book-open"></i> The project](/about/introduce-temporisai.md)
+  - [<i class="fas fa-bullseye"></i> Our goals](/about/the-why.md)
+  - [<i class="fas fa-drafting-compass"></i> How it works](/about/the-how.md)
  
 - **DETAILS**
   - [<i class="fas fa-cogs"></i> Architecture](architecture.md)
