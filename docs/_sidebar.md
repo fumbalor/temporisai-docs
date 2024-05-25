@@ -2,7 +2,7 @@
   - [<i class="fas fa-book-open"></i> The project](/about/the-project.md)
   - [<i class="fas fa-bullseye"></i> Our mission](/about/our-mission.md)
   - [<i class="fas fa-drafting-compass"></i> How it works](/about/how-it-works.md)
-  - [<i class="fas fa-user-friends"></i> Team](/about/team.md)
+  - [<i class="fas fa-user-friends"></i> Team & Advisors](/about/team.md)
  
 - **DETAILS**
   - [<i class="fas fa-cogs"></i> Architecture](details/architecture.md)
