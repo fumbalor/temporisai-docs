@@ -5,9 +5,9 @@
   - [<i class="fas fa-user-friends"></i> Team](/about/team.md)
  
 - **DETAILS**
-  - [<i class="fas fa-cogs"></i> Architecture](architecture.md)
-  - [<i class="fas fa-map-signs"></i> Roadmap](roadmap)
-  - [<i class="fas fa-coins"></i> $TEMPAI]($TMPAI_Tokenomics)
+  - [<i class="fas fa-cogs"></i> Architecture](details/architecture.md)
+  - [<i class="fas fa-map-signs"></i> Roadmap](details/roadmap.md)
+  - [<i class="fas fa-coins"></i> $TEMPAI](details/$TEMPAI.md)
 
 - **KEEP IN TOUCH**
   - [<i class="fas fa-globe"></i> Website](https://temporisai.net)
