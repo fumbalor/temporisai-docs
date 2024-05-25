@@ -1,3 +1,3 @@
 ![Bannière](../assets/logo.png)
 
-# Overview
+# The project
