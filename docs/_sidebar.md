@@ -8,6 +8,10 @@
   - [<i class="fas fa-cogs"></i> Architecture](details/architecture.md)
   - [<i class="fas fa-map-signs"></i> Roadmap](details/roadmap.md)
   - [<i class="fas fa-coins"></i> $TEMPAI](details/$TEMPAI.md)
+ 
+- **TOKEN**
+  - [<i class="fas fa-unicorn"></i> Uniswap ](www.uniswap.org)
+  - [<i class="fas fa-link"></i> Etherscan](www.etherscan.com)
 
 - **KEEP IN TOUCH**
   - [<i class="fas fa-globe"></i> Website](https://temporisai.net)
