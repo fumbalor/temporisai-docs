@@ -1,4 +1,6 @@
-# Overview
+![Banner](../assets/logo.png)
+
+# The project
 
 Welcome to the documentation for **Temporis AI**, our groundbreaking Web3 project featuring the first real-time generative AI models leveraging Latent Consistency Models (LCMs) technology, and powered by a lightweight decentralized Privacy-Informed Network (dePIN). This documentation will provide you with a comprehensive understanding of our project's purpose, architecture, and implementation. Whether you are a developer, data scientist, or blockchain enthusiast, this guide will help you navigate our system and maximize its potential.
 
