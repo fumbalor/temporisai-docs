@@ -7,7 +7,7 @@
 - **DETAILS**
   - [<i class="fas fa-cogs"></i> Architecture](details/architecture.md)
   - [<i class="fas fa-map-signs"></i> Roadmap](details/roadmap.md)
-  - [<i class="fas fa-coins"></i> $TEMPAI](details/$TEMPAI.md)
+  - [<i class="fas fa-coins"></i> $TEMPAI](details/TEMPAI.md)
  
 - **TOKEN**
   - [<i class="fas fa-money-bill"></i> Uniswap](https://uniswap.org)
